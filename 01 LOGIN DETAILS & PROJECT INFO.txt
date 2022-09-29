@@ -1,0 +1,9 @@
+
+
+**Database Name: onlinefoodorder**
+
+**Admin Login Details**
+
+Username: admin
+Password: 123456
+
